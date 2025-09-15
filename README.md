@@ -1,4 +1,3 @@
-<img width="100" alt="little-lemon-logo" src="./assets/images/readme/lemon.png">
 
 # Little Lemon: Onboarding
 
@@ -41,7 +40,6 @@ Capstone project for Meta React Native Specialization on Coursera.
 
 </details>
 
-### Android (Simulator: Google Pixel 3a, Android 14.0)
 
 <details>
 
